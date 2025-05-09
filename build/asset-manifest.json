@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.462c6f63.css",
+    "main.js": "/static/js/main.fb60d4ac.js",
+    "static/js/453.bf3e5d0a.chunk.js": "/static/js/453.bf3e5d0a.chunk.js",
+    "static/media/OverviewSlidinggallery-1.mp4": "/static/media/OverviewSlidinggallery-1.12589060e295a5cf19f9.mp4",
+    "static/media/xc40-16x9-hero.mp4": "/static/media/xc40-16x9-hero.90eb4fac394fa79a3d5d.mp4",
+    "static/media/OverviewSlidinggallery-2.mp4": "/static/media/OverviewSlidinggallery-2.22ec7781f117dbea12e7.mp4",
+    "static/media/OverviewSlidinggallery-7.mp4": "/static/media/OverviewSlidinggallery-7.4cfeec28b7830f780b72.mp4",
+    "static/media/interior-gallery-1.mp4": "/static/media/interior-gallery-1.555a5e7703ab3c1ec4f6.mp4",
+    "static/media/OverviewSlidinggallery-10.jpg": "/static/media/OverviewSlidinggallery-10.4ba724a0773881b37e86.jpg",
+    "static/media/interior-gallery-5.mp4": "/static/media/interior-gallery-5.cd180fa3279a1ed84966.mp4",
+    "static/media/InteriorHero.jpg": "/static/media/InteriorHero.589b9e825fd26b814ed2.jpg",
+    "static/media/OverviewSlidinggallery-9.jpg": "/static/media/OverviewSlidinggallery-9.16f46e8acd957006ecf8.jpg",
+    "static/media/dynamic-specs-highlight-4x5.jpg": "/static/media/dynamic-specs-highlight-4x5.66e4bf4c641a53c623e0.jpg",
+    "static/media/Digitalservices.jpg": "/static/media/Digitalservices.c01554fe38d63486d4be.jpg",
+    "static/media/mhg-1.jpg": "/static/media/mhg-1.68f8a24b466121661794.jpg",
+    "static/media/mhg-3.jpg": "/static/media/mhg-3.8cff4df4582e87320b72.jpg",
+    "static/media/ex40-endlinks-4x3.jpg": "/static/media/ex40-endlinks-4x3.45ad085af1b0b50a24b4.jpg",
+    "static/media/OverviewSlidinggallery-8.jpg": "/static/media/OverviewSlidinggallery-8.585a57eac262dc77a534.jpg",
+    "static/media/modelcomparsion.jpg": "/static/media/modelcomparsion.53ad6d5ee6ef026d8e70.jpg",
+    "static/media/OverviewSlidinggallery-3.jpg": "/static/media/OverviewSlidinggallery-3.c418adb4f90cd52fd5cb.jpg",
+    "static/media/mhg-2.jpg": "/static/media/mhg-2.6ab22ad469fc1cb5bfef.jpg",
+    "static/media/OverviewSlidinggallery-6.jpg": "/static/media/OverviewSlidinggallery-6.8b9a738ff56445ee6527.jpg",
+    "static/media/interior-gallery-2.jpg": "/static/media/interior-gallery-2.6a95683bfa5f10916500.jpg",
+    "static/media/interior-gallery-3.jpg": "/static/media/interior-gallery-3.dc22a29157c52c1051b5.jpg",
+    "static/media/OverviewSlidinggallery-4.jpg": "/static/media/OverviewSlidinggallery-4.31caa5c98e582bd6bf15.jpg",
+    "static/media/xc60-endlinks-4x3.jpg": "/static/media/xc60-endlinks-4x3.6f6931145c420bded923.jpg",
+    "static/media/flatcards2.jpg": "/static/media/flatcards2.444b12a0b0e6b36d7e70.jpg",
+    "static/media/harmankardan.jpg": "/static/media/harmankardan.ba041463267bd4dd62fe.jpg",
+    "static/media/flatcards1.jpg": "/static/media/flatcards1.a2832a507ba1247798d5.jpg",
+    "static/media/OverviewSlidinggallery-5.jpg": "/static/media/OverviewSlidinggallery-5.d2572882b79b3bdff45e.jpg",
+    "static/media/interior-gallery-4.jpg": "/static/media/interior-gallery-4.a09e28c2b1a7f6414065.jpg",
+    "index.html": "/index.html",
+    "main.462c6f63.css.map": "/static/css/main.462c6f63.css.map",
+    "main.fb60d4ac.js.map": "/static/js/main.fb60d4ac.js.map",
+    "453.bf3e5d0a.chunk.js.map": "/static/js/453.bf3e5d0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.462c6f63.css",
+    "static/js/main.fb60d4ac.js"
+  ]
+}
